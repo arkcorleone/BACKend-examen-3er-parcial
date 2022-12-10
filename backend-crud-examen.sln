@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "backend-crud-examen", "backend-crud-examen\backend-crud-examen.csproj", "{9ACFB5E3-C537-4530-B438-06F8CC20CF2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACFB5E3-C537-4530-B438-06F8CC20CF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACFB5E3-C537-4530-B438-06F8CC20CF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACFB5E3-C537-4530-B438-06F8CC20CF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACFB5E3-C537-4530-B438-06F8CC20CF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33F76FFE-9995-4BC2-AB3D-69E8FF81B84B}
+	EndGlobalSection
+EndGlobal
